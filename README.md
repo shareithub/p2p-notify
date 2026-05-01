@@ -13,6 +13,8 @@
 
 *Tidak perlu buka Binance App terus-terusan — bot ini yang akan memberitahu kamu!*
 
+
+Jika kalian butuh  Crypto ecer , bisa mampir ke telegram Bot : [LAPAK SWAP BOT](https://t.me/LapakSwap_bot) : Pembayaran QRIS , dan sudah pasti INSTANT
 </div>
 
 ---
