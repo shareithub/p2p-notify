@@ -156,7 +156,7 @@ Bot Start
 
 **1. Clone repository**
 ```bash
-git clone https://github.com/username/binance-p2p-notifier.git
+git clone https://github.com/shareithub/p2p-notify.git
 cd binance-p2p-notifier
 ```
 
@@ -177,6 +177,7 @@ Isi `requirements.txt`:
 ```
 requests
 python-dotenv
+python-telegram-bot
 ```
 
 **4. Buat file `.env`** *(lihat bagian konfigurasi di bawah)*
